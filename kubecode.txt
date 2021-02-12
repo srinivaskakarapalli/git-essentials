@@ -1,0 +1,2 @@
+this is kubernetes documentation
+this file is located in kubernetes repo
